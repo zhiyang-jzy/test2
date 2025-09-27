@@ -41,8 +41,8 @@ export default function App() {
                 autoComplete="off"
             >
                 <Form.Item
-                    label="token"
-                    name="token"
+                    label="activity_id"
+                    name="activity_id"
                 >
                     <Input />
                 </Form.Item>
